@@ -75,3 +75,9 @@ input{
 .scoreArea{
     display: none;
 }
+.name{
+    text-align: center;
+    margin-top: -8rem;
+    font-size: large;
+    font-weight: 300;
+}
